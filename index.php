@@ -37,7 +37,7 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-links">
                     <div class="navbar-nav">
                         <a class="nav-item nav-link" id="home-menu">Home</a>
-                        <a class="nav-item nav-link" id="about-menu">A agencia</a>
+                        <a class="nav-item nav-link" id="about-menu">A agência</a>
                         <a class="nav-item nav-link" id="services-menu">Serviços</a>
                         <a class="nav-item nav-link" id="team-menu">Time</a>
                         <a class="nav-item nav-link" id="portfolio-menu">Projetos</a>
