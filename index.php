@@ -176,6 +176,66 @@
                     </div>
                 </div>
             </div>
+            <div id="team-area"> <!--Time-->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h3 class="main-title">Nosso time</h3>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="img/profile1.jpg" alt="Imagem de Perfil 1" class="card-img-top">
+                                <div class="card-body">
+                                    <h5 class="card-title">Jhon Doe</h5>
+                                    <p class="card-text">Software Developer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="img/profile2.jpg" alt="Imagem de Perfil 2" class="card-img-top">
+                                <div class="card-body">
+                                    <h5 class="card-title">Maria Mariana</h5>
+                                    <p class="card-text">SEO Consultant</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="img/profile3.jpg" alt="Imagem de Perfil 3" class="card-img-top">
+                                <div class="card-body">
+                                    <h5 class="card-title">Paul Baker</h5>
+                                    <p class="card-text">Project Manager</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card">
+                                <img src="img/profile4.jpg" alt="Imagem de Perfil 4" class="card-img-top">
+                                <div class="card-body">
+                                    <h5 class="card-title">Karina Katarina</h5>
+                                    <p class="card-text">UX/UI Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="apply-area"> <!--Trabalhe Conosco-->
+                   <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6 apply-box" id="company-img"></div>
+                            <div class="col-md-6 apply-box" id="pattern-img">
+                                <h4>Gosta de desafios?</h4>
+                                <p>Temos várias posições abertas, entre elas: Software Engineer, UI/UX Designer, Project Manager e mais.</p>
+                                <p>Clique no botão abaixo e confira os benedícios e as posições em aberto.</p>
+                                <p>Você terá a chance de trabalhar com as melhores tecnologias e os profissionais capacitados.</p>
+                                <a href="#" class="main-btn" id="apply-btn">Saiba mais</a>
+                            </div>
+                        </div>
+                </div>
+            </div>
         </div>
     </main> 
     <script src="js/scripts.js"></script>

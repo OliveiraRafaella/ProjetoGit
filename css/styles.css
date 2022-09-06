@@ -182,3 +182,24 @@ header, .navbar{
     font-size: 26px;
     margin-top: 20px;
 }
+
+/* Time*/
+
+.card-body {
+    text-align: center;
+}
+
+/*Trabalhe Conosco*/
+
+#apply-area{
+    height: 500px;
+}
+
+#apply-area .container-fluid, #apply-area .row{
+   height: 100%;
+}
+
+#apply-area .apply-box{
+    text-align: center;
+    padding: 70px 50px;
+}
