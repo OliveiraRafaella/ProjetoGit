@@ -154,6 +154,28 @@
                     </div>
                 </div>
             </div>
+            <div id="data-area"> <!--Dados da empresa-->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 circle-box" >
+                            <div id="circleA"></div>
+                            <p>Projetos entregues</p>
+                        </div>   
+                        <div class="col-md-3 circle-box" >
+                            <div id="circleB"></div>
+                            <p>Clientes Felizes</p>
+                        </div> 
+                        <div class="col-md-3 circle-box" >
+                            <div id="circleC"></div>
+                            <p>Colaboradores</p>
+                        </div> 
+                        <div class="col-md-3 circle-box" >
+                            <div id="circleD"></div>
+                            <p>Cafezinhos</p>
+                        </div>                          
+                    </div>
+                </div>
+            </div>
         </div>
     </main> 
     <script src="js/scripts.js"></script>
