@@ -220,20 +220,52 @@
                         </div>
                     </div>
                 </div>
-
             </div>
-            <div class="apply-area"> <!--Trabalhe Conosco-->
-                   <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-md-6 apply-box" id="company-img"></div>
-                            <div class="col-md-6 apply-box" id="pattern-img">
-                                <h4>Gosta de desafios?</h4>
-                                <p>Temos várias posições abertas, entre elas: Software Engineer, UI/UX Designer, Project Manager e mais.</p>
-                                <p>Clique no botão abaixo e confira os benedícios e as posições em aberto.</p>
-                                <p>Você terá a chance de trabalhar com as melhores tecnologias e os profissionais capacitados.</p>
-                                <a href="#" class="main-btn" id="apply-btn">Saiba mais</a>
-                            </div>
+            <div id="apply-area"> <!--Trabalhe Conosco-->
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-6 apply-box" id="company-img"></div>
+                        <div class="col-md-6 apply-box" id="pattern-img">
+                            <h4>Gosta de desafios?</h4>
+                            <p>Temos várias posições abertas, entre elas: Software Engineer, UI/UX Designer, Project Manager e mais.</p>
+                            <p>Clique no botão abaixo e confira os benefícios e as posições em aberto.</p>
+                            <p>Aqui você terá a chance de trabalhar com as melhores tecnologias e os profissionais mais capacitados.</p>
+                            <a href="#" class="main-btn" id="apply-btn">Saiba Mais</a>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="portifolio-area"> <!--Portifolio-->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h3 class="main-title">Conheça nossos projetos</h3>
+                        </div>
+                        <div class="col-md-12" id="filter-btn-box">
+                            <button class="main-btn filter-btn active" id="all-btn">Todos</button>
+                            <button class="main-btn filter-btn" id="dev-btn">Desenvolvimento</button>
+                            <button class="main-btn filter-btn" id="dsg-btn">Design</button>
+                            <button class="main-btn filter-btn" id="seo-btn">SEO</button>
+                        </div>
+                        <div class="col-md-4 project-box dev">
+                            <img src="img/proj1.jpg" class="img-fluid" alt="Projeto 1">
+                        </div>
+                        <div class="col-md-4 project-box dsg">
+                            <img src="img/proj2.jpg" class="img-fluid" alt="Projeto 2">
+                        </div>
+                        <div class="col-md-4 project-box seo">
+                            <img src="img/proj3.jpg" class="img-fluid" alt="Projeto 3">
+                        </div>
+                        <div class="col-md-4 project-box dev">
+                            <img src="img/proj4.jpg" class="img-fluid" alt="Projeto 4">
+                        </div>
+                        <div class="col-md-4 project-box dsg">
+                            <img src="img/proj5.jpg" class="img-fluid" alt="Projeto 5">
+                        </div>
+                        <div class="col-md-4 project-box seo">
+                            <img src="img/proj6.jpg" class="img-fluid" alt="Projeto 6">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
