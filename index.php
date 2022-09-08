@@ -25,7 +25,7 @@
 <body>
     <header>
         <div class= "container" id="nav-container">
-            <nav class="navbar navbar-expand-lg fixed-top">
+            <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
                 <a href="#" class="navbar-brand">
                     <img id="logo" src="img/hdcagency_logo.svg" alt="Rafa Agency"> Rafa's Agency
                 </a>
@@ -57,7 +57,7 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="img/banner1.png" class="d-block w-100" alt="Projetos de e-commerce">
-                        <div class="carousel-caption d-nome d-md-block">
+                        <div class="carousel-caption d-md-block">
                             <h2>Quer criar um e-commerce?</h2>
                             <p>Conte conosco, temos mais de 30 lojas no portifólio.</p>
                             <a href="#" class="main-btn">Ver portifólio</a>
@@ -65,7 +65,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/banner2.png" class="d-block w-100" alt="Engenharia de Software">
-                        <div class="carousel-caption d-nome d-md-block">
+                        <div class="carousel-caption d-md-block">
                             <h2>Está querendo tirar o projeto do papel?</h2>
                             <p>Nossa equipe de engenharia de softwares está pronta para lhe atender</p>
                             <a href="#" class="main-btn">Entre em contato</a>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/banner3.png" class="d-block w-100" alt="Manutenção em Software">
-                        <div class="carousel-caption d-nome d-md-block">
+                        <div class="carousel-caption d-md-block">
                             <h2>Está buscando manutenção no seu software?</h2>
                             <p>A Rafa's conta com engenheiros altamentes qualificados para rexolver seu problema.</p>
                             <a href="#" class="main-btn">Entre em contato</a>
