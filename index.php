@@ -288,6 +288,50 @@
                     </div>
                 </div>
             </div>
+            <footer>
+                <div id="contact-area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="main-title">Entre em contato conosco</h3>
+                            </div>
+                            <div class="col-md-4 contact-box">
+                                <i class="fas fa-phone"></i>
+                                <p><span class="contact-title">Ligue para: </span>(31) 99999-9999</p>
+                                <p><span class="contact-title">Horários </span>8:00 - 19:00</p>
+                            </div>
+                            <div class="col-md-4 contact-box">
+                                <i class="fas fa-envelope"></i>
+                                <p><span class="contact-title">Envie um e-mail: </span>contato@rafasagency.com.br</p>
+                            </div>
+                            <div class="col-md-4 contact-box">
+                                <i class="fa fa-map-marker-alt"></i>
+                                <p><span class="contact-title">Venha tomar um café: </span>Rua Lorem Ipsum - 1314</p>
+                            </div>
+                            <div class="col-md-6" id="msg-box">
+                                <p>Ou nos deixe uma mensagem: </p>
+                            </div>
+                            <div class="col-md-6" id="contact-form">
+                                <form action="">
+                                <input type="email" class="form-control" placeholder="E-mail" name="email">
+                                <input type="text" class="form-control" placeholder="Assunto" name="subject">
+                                <textarea class= "form-control" name="message" placeholder="Sua mensagem..." rows="3"></textarea>
+                                <input type="submit" class="main-btn" value="enviar"> 
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="copy-area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Desenvolvido por <a href="" target="_blank">Rafa's Agency</a> &copy; 2022</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
         </div>
     </main> 
     <script src="js/scripts.js"></script>
