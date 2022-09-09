@@ -251,7 +251,7 @@ header, .navbar{
     text-align: center;
 }
 
-#portifolio-area .filter-btn{
+#portfolio-area .filter-btn{
     color:#444;
     border: 1px solid #444;
     background-color: transparent;
@@ -264,7 +264,7 @@ header, .navbar{
     padding: 0 20px;
 }
 
-#portifolio-area .filter-btn:hover, .portifolio-area .filter-btn.active{
+#portfolio-area .filter-btn:hover, .portifolio-area .filter-btn.active{
     color: #FFF;
     background-color: #65DAF9;
     border-color: #65DAF9;
@@ -559,7 +559,7 @@ header, .navbar{
 
     /* filter */
 
-    #portifolio-area .filter-btn{
+    #portfolio-area .filter-btn{
         margin-bottom: 20px;
     }
 
@@ -585,5 +585,11 @@ header, .navbar{
         letter-spacing: 0;
         margin: 0;
         width: 50%;
+    }
+
+     /* contact */
+     .contact-box{
+        border: none;
+        margin-bottom: 0;
     }
 }

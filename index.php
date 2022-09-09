@@ -115,7 +115,7 @@
                     </div>
                 </div>
             </div>
-            <div id="service-area"><!--Serviços da empresa-->
+            <div id="services-area"><!--Serviços da empresa-->
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -235,7 +235,7 @@
                     </div>
                 </div>
             </div>
-            <div id="portifolio-area"> <!--Portifolio-->
+            <div id="portfolio-area"> <!--Portifolio-->
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
